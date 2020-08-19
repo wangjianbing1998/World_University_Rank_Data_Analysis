@@ -7,7 +7,7 @@ http://www.zuihaodaxue.com/ARWU2019.html
 
 
 # 使用技术
-- 爬虫技术
+- 爬虫技术 BeautifulSoup，request
 - 可视化工具matplotlib
 - 数据分析base tool：pandas
 
